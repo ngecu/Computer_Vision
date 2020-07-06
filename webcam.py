@@ -17,7 +17,7 @@ while True:
     # frame is an image array vector captured based on the default frames per second defined explicitly or implicitly 
 
     ret,frame = cap.read()
-    print(frame)
+    
     # draw a rectangle on the image frame
     # takes in parameters:
         # image object
