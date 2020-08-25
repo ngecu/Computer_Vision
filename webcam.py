@@ -4,7 +4,7 @@ import numpy as numpy
 
 # Loads frames from a webcam using the VideoCapture()method. The parameter 0 indicates the first webcam, and the number can change if there is more than one webcam.
 # Its argument can be either the device index or the name of a video file
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('images/video.mp4')
 
 
 
