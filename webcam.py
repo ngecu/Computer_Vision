@@ -1,5 +1,5 @@
 # CREATE VIRTUAL ENVIRON
-# --
+# --py -m venv env
 # ACTIAVTE VIRUAL ENVIRON
 # -- env\Scripts\activate
 # INSTALL OPEN CV
